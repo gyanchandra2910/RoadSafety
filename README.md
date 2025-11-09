@@ -434,15 +434,7 @@ For queries regarding this submission:
 
 ---
 
-## 🎯 Hackathon Submission Details
 
-**Problem Statement**: 1.3 - Identification of road safety interventions using a GPT-based AI tool  
-**Submission Date**: November 2025  
-**Status**: ✅ Fully Functional (AI module ready, requires OpenAI credits)
-
-**Key Achievement**: Successfully integrated traditional ML (TF-IDF) with modern AI (GPT) to create a robust, production-ready road safety recommendation system with graceful degradation and modular architecture.
-
----
 
 <div align="center">
 
